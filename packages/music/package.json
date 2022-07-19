@@ -60,7 +60,8 @@
     "@discordjs/opus": "^0.8.0",
     "@discordjs/voice": "^0.11.0",
     "@types/lodash": "^4.14.182",
-    "discord.js": "^14.0.2",
+    "discord.js": "^14.0.3-dev.1658145896-b316ac7.0",
+    "discordx": "^11.0.0-dev.1658217727.b198ea53",
     "ffmpeg-static": "^4.4.1",
     "libsodium-wrappers": "^0.7.10",
     "typescript": "^4.7.4"

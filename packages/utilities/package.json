@@ -48,7 +48,6 @@
     "type-check": "tsc --noemit"
   },
   "dependencies": {
-    "@discordjs/builders": "^1.0.0",
     "tslib": "^2.4.0"
   },
   "devDependencies": {
