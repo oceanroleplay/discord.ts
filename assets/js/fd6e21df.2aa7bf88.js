@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[109],{9417:(u,e,s)=>{s.r(e),s.d(e,{default:()=>c});var t=s(7294);function c(){return t.useEffect((()=>{window.location.href="https://github.com/oceanroleplay/discord.ts/tree/dev"}),[]),null}}}]);
